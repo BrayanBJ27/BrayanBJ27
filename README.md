@@ -12,13 +12,24 @@ Bienvenido a mi repositorio. Soy un apasionado de la programación y la tecnolog
 - Aquí puedes ver algunos de mis proyectos y colaboraciones.
 
 ## Panda Programador
-Disfruta de una animación de un panda programador que he creado usando HTML, CSS y JavaScript. 
+Disfruta de una animación de un panda programador que he creado usando HTML, CSS y JavaScript.
+
+![Panda Programador](./assets/panda-programador.gif)
 
 [Ver Animación del Panda Programador](./panda-programador.html)
 
 ## Contacto
 - 📧 Puedes contactarme a través de mi correo: [xavi_braian@hotmail.com](mailto:xavi_braian@hotmail.com)
 
+## Lenguajes y Herramientas
+![Lenguajes y Herramientas](./assets/languages-tools.png)
+
 ---
 
 ¡Gracias por visitar mi perfil!
+
+---
+
+<div align="center">
+    <img src="./assets/panda-programador.gif" alt="Panda Programador" width="300"/>
+</div>
