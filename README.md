@@ -17,7 +17,7 @@ Disfruta de una animación de un panda programador que he creado usando HTML, CS
 [Ver Animación del Panda Programador](./panda-programador.html)
 
 ## Contacto
-- 📧 Puedes contactarme a través de mi correo: [tu-email@dominio.com](mailto:xavi_braian@hotmail.com)
+- 📧 Puedes contactarme a través de mi correo: [xavi_braian@hotmail.com](mailto:xavi_braian@hotmail.com)
 
 ---
 
