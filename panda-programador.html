@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panda Programador</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #282c34;
+            margin: 0;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .panda {
+            width: 200px;
+            height: 200px;
+            position: relative;
+        }
+
+        .panda .ear {
+            width: 50px;
+            height: 50px;
+            background: black;
+            border-radius: 50%;
+            position: absolute;
+            top: 0;
+        }
+
+        .panda .ear.left {
+            left: 20px;
+        }
+
+        .panda .ear.right {
+            right: 20px;
+        }
+
+        .panda .face {
+            width: 100%;
+            height: 100%;
+            background: white;
+            border-radius: 50%;
+            position: absolute;
+            top: 20px;
+        }
+
+        .panda .eye {
+            width: 40px;
+            height: 40px;
+            background: black;
+            border-radius: 50%;
+            position: absolute;
+            top: 50px;
+        }
+
+        .panda .eye.left {
+            left: 50px;
+        }
+
+        .panda .eye.right {
+            right: 50px;
+        }
+
+        .panda .nose {
+            width: 20px;
+            height: 20px;
+            background: black;
+            border-radius: 50%;
+            position: absolute;
+            top: 120px;
+            left: calc(50% - 10px);
+        }
+
+        .panda .mouth {
+            width: 60px;
+            height: 30px;
+            border-radius: 0 0 30px 30px;
+            background: black;
+            position: absolute;
+            top: 140px;
+            left: calc(50% - 30px);
+        }
+
+        .panda .laptop {
+            width: 140px;
+            height: 100px;
+            background: gray;
+            position: absolute;
+            top: 180px;
+            left: calc(50% - 70px);
+            border-radius: 10px;
+        }
+
+        .panda .screen {
+            width: 120px;
+            height: 70px;
+            background: #000;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            border-radius: 5px;
+        }
+
+        .code {
+            color: #00ff00;
+            font-family: monospace;
+            position: absolute;
+            top: 50px;
+            left: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="panda">
+        <div class="ear left"></div>
+        <div class="ear right"></div>
+        <div class="face">
+            <div class="eye left"></div>
+            <div class="eye right"></div>
+            <div class="nose"></div>
+            <div class="mouth"></div>
+            <div class="laptop">
+                <div class="screen">
+                    <div class="code">_</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const codeElement = document.querySelector('.code');
+        const codeContent = [
+            "console.log('Hello, World!');",
+            "const panda = 'cute';",
+            "let code = true;",
+            "if (code) {",
+            "  panda.happy();",
+            "}"
+        ];
+        let index = 0;
+
+        function typeCode() {
+            if (index < codeContent.length) {
+                codeElement.innerText += codeContent[index] + '\n';
+                index++;
+                setTimeout(typeCode, 1000);
+            } else {
+                codeElement.innerText = "";
+                index = 0;
+                setTimeout(typeCode, 1000);
+            }
+        }
+
+        typeCode();
+    </script>
+</body>
+</html>
