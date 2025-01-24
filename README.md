@@ -21,9 +21,14 @@ Disfruta de una animación de un panda programador que he creado usando HTML, CS
 ## Contacto
 - 📧 Puedes contactarme a través de mi correo: [xavi_braian@hotmail.com](mailto:xavi_braian@hotmail.com)
 
-## Lenguajes y Herramientas
-![Lenguajes y Herramientas](./assets/languages-tools.png)
-
+## Lenguajes y Frameworks
+- Java
+- PHP
+- C#
+- Python
+- ASP.NET
+- React-Native
+- 
 ---
 
 ¡Gracias por visitar mi perfil!
