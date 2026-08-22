@@ -1,0 +1,75 @@
+<svg width="850" height="200" viewBox="0 0 850 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brayan Dávila - PandaDev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#7c86ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e6edf3"/>
+      <stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fondo -->
+  <rect x="0" y="0" width="850" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="849" height="199" rx="16" fill="none" stroke="#21262d" stroke-width="1"/>
+
+  <!-- barra de acento izquierda -->
+  <rect x="0" y="0" width="6" height="200" rx="3" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- nombre -->
+  <text x="48" y="78" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="url(#name)">Brayan Dávila</text>
+
+  <!-- subtítulo -->
+  <text x="50" y="112" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="500" fill="#7d8590">Ingeniero de Sistemas · Data &amp; Automatización Fiscal · Mobile Dev</text>
+
+  <!-- línea acento -->
+  <rect x="50" y="128" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <!-- tags -->
+  <g font-family="'Fira Code',Consolas,monospace" font-size="12.5" font-weight="600">
+    <g transform="translate(50,150)">
+      <rect x="0" y="0" width="74" height="26" rx="13" fill="#1f6feb22" stroke="#1f6feb55"/>
+      <text x="37" y="17" fill="#58a6ff" text-anchor="middle">Python</text>
+    </g>
+    <g transform="translate(132,150)">
+      <rect x="0" y="0" width="118" height="26" rx="13" fill="#a371f722" stroke="#a371f755"/>
+      <text x="59" y="17" fill="#bc8cff" text-anchor="middle">React Native</text>
+    </g>
+    <g transform="translate(258,150)">
+      <rect x="0" y="0" width="60" height="26" rx="13" fill="#2ea04322" stroke="#2ea04355"/>
+      <text x="30" y="17" fill="#3fb950" text-anchor="middle">Azure</text>
+    </g>
+    <g transform="translate(326,150)">
+      <rect x="0" y="0" width="72" height="26" rx="13" fill="#db6d2822" stroke="#db6d2855"/>
+      <text x="36" y="17" fill="#e3873c" text-anchor="middle">Solidity</text>
+    </g>
+  </g>
+
+  <!-- panda minimalista -->
+  <g transform="translate(720,60)">
+    <circle cx="40" cy="40" r="44" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- orejas -->
+    <circle cx="14" cy="12" r="12" fill="#e6edf3"/>
+    <circle cx="66" cy="12" r="12" fill="#e6edf3"/>
+    <circle cx="14" cy="12" r="6" fill="#0d1117"/>
+    <circle cx="66" cy="12" r="6" fill="#0d1117"/>
+    <!-- cara -->
+    <circle cx="40" cy="40" r="30" fill="#e6edf3"/>
+    <!-- ojos -->
+    <ellipse cx="28" cy="36" rx="8" ry="10" fill="#0d1117"/>
+    <ellipse cx="52" cy="36" rx="8" ry="10" fill="#0d1117"/>
+    <circle cx="30" cy="34" r="2.5" fill="#e6edf3"/>
+    <circle cx="54" cy="34" r="2.5" fill="#e6edf3"/>
+    <!-- nariz -->
+    <ellipse cx="40" cy="50" rx="4" ry="3" fill="#0d1117"/>
+    <path d="M40 53 v5" stroke="#0d1117" stroke-width="1.5"/>
+  </g>
+</svg>
