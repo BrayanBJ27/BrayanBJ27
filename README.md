@@ -66,8 +66,8 @@ ubicacion:  Quito, Ecuador 🇪🇨
      Reemplaza "github-readme-stats.vercel.app" por TU instancia self-host.
      Instrucciones en el chat. -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrayanBJ27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanBJ27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-alpha-sepia-43.vercel.app/api?username=BrayanBJ27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-alpha-sepia-43.vercel.app/api/top-langs/?username=BrayanBJ27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="top langs"/>
 </div>
 
 <div align="center">
@@ -93,6 +93,14 @@ ubicacion:  Quito, Ecuador 🇪🇨
 
 <br/>
 
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanBJ27&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=12&custom_title=Contribuciones%20en%20el%20tiempo" alt="activity graph" width="100%"/>
+</div>
+
+<br/>
+
 ## 🚀 Proyectos
 
 <div align="center">
@@ -106,14 +114,6 @@ ubicacion:  Quito, Ecuador 🇪🇨
 </div>
 
 <br/>
-
-## 🐼 Panda Programador
-
-<div align="center">
-  <img src="./assets/panda-programador.gif" alt="Panda Programador" width="300"/>
-  <br/>
-  <a href="./panda-programador.html">▶️ Ver animación</a>
-</div>
 
 <!-- FOOTER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
