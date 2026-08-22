@@ -2,9 +2,9 @@
   Perfil de BrayanBJ27  ·  repo: BrayanBJ27/BrayanBJ27
   ========================================================= -->
 
-<!-- BANNER ANIMADO -->
+<!-- BANNER (SVG propio en ./assets/banner.svg) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Brayan%20D%C3%A1vila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PandaDev%20%C2%B7%20Data%20%26%20Automatizaci%C3%B3n%20Fiscal%20%C2%B7%20Mobile%20Dev&descSize=16&descAlignY=58" width="100%"/>
+  <img src="./assets/banner.svg" alt="Brayan Dávila · PandaDev" width="100%"/>
 </div>
 
 <!-- TYPING -->
@@ -74,10 +74,6 @@ ubicacion:  Quito, Ecuador 🇪🇨
   <img src="https://streak-stats.demolab.com?user=BrayanBJ27&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrayanBJ27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
-</div>
-
 <br/>
 
 ## 🐍 Contribuciones (Snake)
@@ -93,13 +89,15 @@ ubicacion:  Quito, Ecuador 🇪🇨
 
 <br/>
 
-## 📈 Actividad
+## 📈 Contribuciones (verde 3D)
 
+<!-- Aparece tras correr el workflow profile-3d.yml una vez (ver chat). -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanBJ27&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=12&custom_title=Contribuciones%20en%20el%20tiempo" alt="activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/BrayanBJ27/BrayanBJ27/output-3d-contrib/profile-green-animate.svg" alt="calendario 3D verde" width="100%"/>
 </div>
 
 <br/>
+
 
 ## 🚀 Proyectos
 
@@ -112,12 +110,10 @@ ubicacion:  Quito, Ecuador 🇪🇨
 | 🐼 **Panda Programador** | Animación web desde cero | `HTML` `CSS` `JS` |
 
 </div>
-
 <br/>
 
-<!-- FOOTER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
-
 <div align="center">
+  <img src="https://img.shields.io/badge/-%20-58a6ff?style=flat-square" width="100%" height="3" alt=""/>
+  <br/><br/>
   <sub>⭐ Gracias por visitar — <b>Brayan · PandaDev 🐼</b></sub>
 </div>
