@@ -89,16 +89,6 @@ ubicacion:  Quito, Ecuador 🇪🇨
 
 <br/>
 
-## 📈 Contribuciones (verde 3D)
-
-<!-- Aparece tras correr el workflow profile-3d.yml una vez (ver chat). -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrayanBJ27/BrayanBJ27/output-3d-contrib/profile-green-animate.svg" alt="calendario 3D verde" width="100%"/>
-</div>
-
-<br/>
-
-
 ## 🚀 Proyectos
 
 <div align="center">
