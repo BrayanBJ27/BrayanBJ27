@@ -15,7 +15,7 @@
   <a href="mailto:xavi_braian@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=TU-ID-DEV">
+  <a href="https://play.google.com/store/apps/dev?id=7619610135574689790">
     <img src="https://img.shields.io/badge/PandaDev-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="google play"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=BrayanBJ27&label=Perfil+visto&color=58a6ff&style=for-the-badge" alt="profile views"/>
@@ -90,36 +90,6 @@
 -->
 
 ---
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| ⚽ **Copa Soccer 2026** | Simulador de torneo — app móvil (PandaDev) | React Native · Firebase · AdMob |
-| 🃏 **QUIXAR** | Trivia multi-categoría con cartas coleccionables | React Native · Expo |
-| 🐼 **Panda Programador** | Animación web hecha desde cero | HTML · CSS · JavaScript |
-
-> 💡 Reemplaza/añade los que quieras mostrar y enlázalos a sus repos.
-
----
-
-## 🐼 Panda Programador
-
-<div align="center">
-  <img src="./assets/panda-programador.gif" alt="Panda Programador" width="320"/>
-  <br/>
-  <a href="./panda-programador.html">▶️ Ver animación</a>
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-  <a href="mailto:xavi_braian@hotmail.com">
-    <img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</div>
 
 <br/>
 
